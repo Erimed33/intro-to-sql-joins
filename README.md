@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+I used the SqlBolt resource and it had a lot of practice on it. There were also solutions so i wouldnt just be stuck there for long. 
 
 - What are three things you learned during this lab?
+during this lab i feel like i learned more on selecting queries with conditions. More practice means I will understand it better.
+
+
